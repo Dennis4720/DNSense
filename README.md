@@ -1,4 +1,4 @@
-# DNSense
+# [DNSense](https://dnsense.io)
 Managing your domains and dns zones is now easier than ever before.
 
 Manage and share your domains and DNS zones in a breeze. No more complicated interfaces, no more confusing settings. Just one simple, easy to use interface that gets the job done.
